@@ -13,8 +13,27 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}中心主任
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+
+# {% include icon.html icon="fa-regular fa-envelope" %}客座教授
+
+
+# {% include icon.html icon="fa-regular fa-envelope" %}博士后
+
+
+# {% include icon.html icon="fa-regular fa-envelope" %}博士生
+
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+
+# {% include icon.html icon="fa-regular fa-envelope" %}硕士生
+
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+
+
+# {% include icon.html icon="fa-regular fa-envelope" %}本科生
+
+
+
 
 {% include section.html background="images/background.png" dark=true %}
 

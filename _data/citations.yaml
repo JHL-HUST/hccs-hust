@@ -10,8 +10,8 @@
   date: '2025-11-01'
   link: https://doi.org/g94jjx
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ejor.2025.05.003
   title: Solution-hashing search based on layout-graph transformation for unequal
     circle packing
@@ -23,8 +23,8 @@
   date: '2025-11-01'
   link: https://doi.org/g94jjz
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TBDATA.2025.3552326
   title: 'Residual Learning for Self-Knowledge Distillation: Enhancing Neural Networks
     Through Consistency Across Layers'
@@ -36,8 +36,8 @@
   date: '2025-10-01'
   link: https://doi.org/g94jj3
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3711896.3736896
   title: 'CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions'
   authors:
@@ -53,8 +53,8 @@
   date: '2025-08-03'
   link: https://doi.org/g94jj5
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TBDATA.2024.3524081
   title: 'NAGphormer+: A Tokenized Graph Transformer With Neighborhood Augmentation
     for Node Classification in Large Graphs'
@@ -68,8 +68,8 @@
   date: '2025-08-01'
   link: https://doi.org/g94jj6
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3690624.3709253
   title: 'FABind+: Enhancing Molecular Docking through Improved Pocket Prediction
     and Pose Generation'
@@ -85,8 +85,8 @@
   date: '2025-07-20'
   link: https://doi.org/g94jj7
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.engappai.2025.110780
   title: Boosting meta-training with base class information for robust few-shot learning
   authors:
@@ -98,8 +98,8 @@
   date: '2025-07-01'
   link: https://doi.org/g94jj8
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TNNLS.2024.3441708
   title: Adaptive Channel Allocation for Robust Differentiable Architecture Search
   authors:
@@ -111,8 +111,8 @@
   date: '2025-05-01'
   link: https://doi.org/g94jj9
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TNNLS.2024.3400459
   title: 'GMConv: Modulating Effective Receptive Fields for Convolutional Kernels'
   authors:
@@ -125,8 +125,8 @@
   date: '2025-04-01'
   link: https://doi.org/g94jkb
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.asoc.2025.112983
   title: Transferable adversarial attacks against face recognition using surrogate
     model fine-tuning
@@ -139,8 +139,8 @@
   date: '2025-04-01'
   link: https://doi.org/g94jkc
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3706111
   title: Structure Amplification on Multi-layer Stochastic Block Models
   authors:
@@ -154,8 +154,8 @@
   date: '2025-01-09'
   link: https://doi.org/g94jkd
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TETCI.2025.3529896
   title: Class Discriminative Knowledge Distillation
   authors:
@@ -169,8 +169,8 @@
   date: '2025-04-01'
   link: https://doi.org/g94jkf
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCSVT.2025.3576793
   title: Intra-task Mutual Attention based Vision Transformer for Few-Shot Learning
   authors:
@@ -181,8 +181,8 @@
   date: '2025-01-01'
   link: https://doi.org/g94jkg
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TIFS.2025.3533925
   title: Parameter Interpolation Adversarial Training for Robust Image Classification
   authors:
@@ -194,8 +194,8 @@
   date: '2025-01-01'
   link: https://doi.org/g94jkj
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3233/FAIA240786
   title: Grouped Logit Distillation Enhanced with Superclass Awareness for Efficient
     Knowledge Transfer
@@ -208,8 +208,8 @@
   date: '2024-10-16'
   link: https://doi.org/g94jkk
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3233/FAIA240684
   title: Sampling-Based Teacher Guided Method to Boost Transferable Attack on SAR
     Image Classification
@@ -222,8 +222,8 @@
   date: '2024-10-16'
   link: https://doi.org/g94jkm
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s11263-024-02103-w
   title: Regional Adversarial Training for Better Robust Generalization
   authors:
@@ -238,8 +238,8 @@
   date: '2024-05-17'
   link: https://doi.org/g94jkn
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.eswa.2024.123952
   title: Geometric batch optimization for packing equal circles in a circle on large
     scale
@@ -252,8 +252,8 @@
   date: '2024-09-01'
   link: https://doi.org/g94jkp
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.asoc.2024.111860
   title: Tracklet-switch and imperceivable adversarial attack against pedestrian Multi-Object
     Tracking trackers
@@ -266,8 +266,8 @@
   date: '2024-09-01'
   link: https://doi.org/g94jkq
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.asoc.2024.111715
   title: Error-feedback three-phase optimization to configurable convolutional echo
     state network for time series forecasting
@@ -280,8 +280,8 @@
   date: '2024-08-01'
   link: https://doi.org/g94jkr
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.knosys.2024.111861
   title: Neighborhood convolutional graph neural network
   authors:
@@ -292,8 +292,8 @@
   date: '2024-07-01'
   link: https://doi.org/g8rnhx
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cor.2023.106522
   title: An efficient solution space exploring and descent method for packing equal
     spheres in a sphere
@@ -307,8 +307,8 @@
   date: '2024-04-01'
   link: https://doi.org/g6jqph
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.knosys.2024.111524
   title: 'Meta-multigraph search: Rethinking meta-structure on heterogeneous information
     networks'
@@ -320,8 +320,8 @@
   date: '2024-04-01'
   link: https://doi.org/g94jkv
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCSS.2022.3226178
   title: Centroid-Based Multiple Local Community Detection
   authors:
@@ -332,8 +332,8 @@
   date: '2024-02-01'
   link: https://doi.org/g94jkw
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCSS.2023.3252261
   title: 'LUSTC: A Novel Approach for Predicting Link States on Dynamic Attributed
     Networks'
@@ -345,8 +345,8 @@
   date: '2024-02-01'
   link: https://doi.org/g94jkx
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TBDATA.2023.3310251
   title: Streaming Local Community Detection Through Approximate Conductance
   authors:
@@ -358,8 +358,8 @@
   date: '2024-02-01'
   link: https://doi.org/g94jkz
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCSS.2024.3387487
   title: 'PAMT: A Novel Propagation-Based Approach via Adaptive Similarity Mask for
     Node Classification'
@@ -372,8 +372,8 @@
   date: '2024-10-01'
   link: https://doi.org/g94jk2
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s44196-023-00376-6
   title: Semantic Adversarial Attacks on Face Recognition Through Significant Attributes
   authors:
@@ -384,8 +384,8 @@
   date: '2023-12-19'
   link: https://doi.org/g94jk3
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3567597
   title: Uncovering the Local Hidden Community Structure in Social Networks
   authors:
@@ -397,8 +397,8 @@
   date: '2023-02-27'
   link: https://doi.org/g94jk4
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cor.2023.106249
   title: A reinforced hybrid genetic algorithm for the traveling salesman problem
   authors:
@@ -410,8 +410,8 @@
   date: '2023-09-01'
   link: https://doi.org/g94jk6
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3580305.3599468
   title: Pre-training Antibody Language Models for Antigen-Specific Computational
     Antibody Design
@@ -432,8 +432,8 @@
   date: '2023-08-04'
   link: https://doi.org/g94jk7
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCSS.2022.3162229
   title: Link Prediction and Unlink Prediction on Dynamic Networks
   authors:
@@ -444,8 +444,8 @@
   date: '2023-04-01'
   link: https://doi.org/g94jk8
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cie.2023.109004
   title: A Simulated Annealing approach for the Circle Bin Packing Problem with Rectangular
     Items
@@ -458,8 +458,8 @@
   date: '2023-02-01'
   link: https://doi.org/g94jk9
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.knosys.2022.110144
   title: "Reinforced Lin\u2013Kernighan\u2013Helsgaun algorithms for the traveling\
     \ salesman problems"
@@ -473,8 +473,8 @@
   date: '2023-01-01'
   link: https://doi.org/g94jmb
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s44196-022-00096-3
   title: Effective Variable Depth Local Search for the Budgeted Maximum Coverage Problem
   authors:
@@ -485,8 +485,8 @@
   date: '2022-07-04'
   link: https://doi.org/g94jmc
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.knosys.2022.109853
   title: 'HoSIM: Higher-order Structural Importance based method for multiple local
     community detection'
@@ -499,8 +499,8 @@
   date: '2022-11-01'
   link: https://doi.org/g94jmd
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TC.2021.3128504
   title: Clustering Driven Iterated Hybrid Search for Vertex Bisection Minimization
   authors:
@@ -514,8 +514,8 @@
   date: '2022-10-01'
   link: https://doi.org/g94jmf
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cor.2022.105826
   title: Adaptive simulated annealing with greedy search for the circle bin packing
     problem
@@ -530,8 +530,8 @@
   date: '2022-08-01'
   link: https://doi.org/g94jmg
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.knosys.2022.108760
   title: Quadratic Optimization based Clique Expansion for overlapping community detection
   authors:
@@ -543,8 +543,8 @@
   date: '2022-07-01'
   link: https://doi.org/g94jmh
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.eswa.2021.115915
   title: On fast enumeration of maximal cliques in large graphs
   authors:
@@ -557,8 +557,8 @@
   date: '2022-01-01'
   link: https://doi.org/g94jmk
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TCSS.2020.3008860
   title: Sparse Nonnegative Matrix Factorization for Multiple-Local-Community Detection
   authors:
@@ -569,8 +569,8 @@
   date: '2020-10-01'
   link: https://doi.org/g94jmm
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TSMC.2017.2768072
   title: 'The Orthogonal Packing and Scheduling Problem: Model, Heuristic, and Benchmark'
   authors:
@@ -583,8 +583,8 @@
   date: '2020-04-01'
   link: https://doi.org/g94jmn
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TPDS.2018.2851221
   title: A Novel Task-Duplication Based Clustering Algorithm for Heterogeneous Computing
     Environments
@@ -598,63 +598,5 @@
   date: '2019-01-01'
   link: https://doi.org/gnt4j7
   orcid: 0000-0001-7627-4604
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml

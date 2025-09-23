@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: 中心动态
 nav:
-  order: 4
+  order: 2
   tooltip: Musings and miscellany
 ---
 

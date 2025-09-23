@@ -1,13 +1,16 @@
 ---
 name: 何琨
-image: images/kun_he.png
+image: images/members/pi/kun_he.png
 role: principal-investigator
+description: 中心执行主任
 affiliation: 华中科技大学
 aliases:
-  - Kun H.
+  - Kun He
 links:
   home-page: https://faculty.hust.edu.cn/hekun/zh_CN/index.htm
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-7627-4604
+  email: brooklet60@hust.edu.cn
+
 ---
 
 职位：华中科技大学计算机学院教授、智能科学与技术专业负责人，华中卓越学者特聘岗教授，华中科技大学霍普克罗夫特计算科学研究中心执行主任。

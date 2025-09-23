@@ -1,0 +1,18 @@
+---
+name: 台欣未
+image: 
+role: undergrad
+description: 直博-GNN
+affiliation: 华中科技大学
+aliases:
+  - Xinwei Tai
+links:
+  home-page: 
+  orcid: 
+  email: 
+
+---
+
+职位：
+
+简介：
