@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}联系我们
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -14,14 +14,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="brooklet60@hust.edu.cn"
+  link="brooklet60@hust.edu.cn"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(027) 8754-3885"
+  link="+86-027-87543885"
 %}
 {%
   include button.html

@@ -11,7 +11,7 @@ nav:
 
 我们坚持"引进与培养并重"的人才发展战略，为优秀人才提供良好的学术环境和发展平台，努力建设一支具有国际竞争力的高水平人才队伍。
 
-{% include section.html %}
+# {% include icon.html icon="fa-regular fa-envelope" %}中心主任
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
