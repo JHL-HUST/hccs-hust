@@ -17,8 +17,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}客座教授
 
+{% include list.html data="members" component="portrait" filter="role == 'vp'" %}
 
 # {% include icon.html icon="fa-regular fa-envelope" %}博士后
+
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
 
 # {% include icon.html icon="fa-regular fa-envelope" %}博士生
@@ -45,9 +48,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/team_photo_1.png" %}
-{% include figure.html image="images/team_photo_2.png" %}
-{% include figure.html image="images/team_photo_3.png" %}
+{% include figure.html image="images/members/team_photos/team_photo_1.png" %}
+{% include figure.html image="images/members/team_photos/team_photo_2.png" %}
+{% include figure.html image="images/members/team_photos/team_photo_3.png" %}
 
 {% endcapture %}
 
