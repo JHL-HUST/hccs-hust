@@ -23,7 +23,6 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
-
 # {% include icon.html icon="fa-regular fa-envelope" %}博士生
 
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
@@ -32,10 +31,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
-
 # {% include icon.html icon="fa-regular fa-envelope" %}本科生
-
-
 
 
 {% include section.html background="images/background.png" dark=true %}
