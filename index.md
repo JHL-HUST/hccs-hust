@@ -49,7 +49,7 @@
 
 {%
   include feature.html
-  image="images/posts/2025-09-10-teacher-ethics-award/cover.png"
+  image="images/posts/2025-06-08-teacher-recruitment/image_1.png"
   link="projects"
   title="中心动态"
   flip=true

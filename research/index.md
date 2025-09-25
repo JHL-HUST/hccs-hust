@@ -5,20 +5,21 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}研究成果
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+中心在计算科学理论与算法、智能科学与技术等领域取得了一系列重要成果，在国际顶级期刊和会议上发表高质量学术论文，承担国家重大科研项目，致力于推动计算科学理论与应用的创新发展。
 
 {% include section.html %}
 
-## Highlighted
+## 亮点成果
 
+{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
-## All
+## 所有成果
 
 {% include search-box.html %}
 

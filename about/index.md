@@ -30,4 +30,4 @@ nav:
 | 何 琨  | 霍普克罗夫夫特中心执行主任   | 成员   |
 | 吴 松  | 计算机科学与技术学院副院长   | 成员   |
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<!-- {% include cols.html col1=col1 col2=col2 col3=col3 %} -->

@@ -5,40 +5,40 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}人才队伍
 
-华中科技大学John Hopcroft计算中心汇聚了一批在计算机科学领域享有国际声誉的杰出学者和优秀青年人才。中心以图灵奖得主John Hopcroft教授为学术带头人，何琨教授为执行主任，研究领域横跨理论计算机科学、算法设计与分析、机器学习、数据挖掘、人工智能等前沿方向。团队成员在国际顶级期刊和会议上发表高质量学术论文，承担国家重大科研项目，致力于推动计算科学理论与应用的创新发展。
+华中科技大学John Hopcroft计算中心汇聚了计算机科学领域的顶尖学者和青年才俊。中心由图灵奖得主John Hopcroft教授领衔，何琨教授担任执行主任，在理论计算机科学、算法设计、机器学习、数据挖掘、人工智能等前沿领域开展深度研究。团队在国际顶级期刊和会议上持续产出高质量成果，承担多项国家重大科研项目，致力于计算科学理论与应用的创新突破。
 
-我们坚持"引进与培养并重"的人才发展战略，为优秀人才提供良好的学术环境和发展平台，努力建设一支具有国际竞争力的高水平人才队伍。
+中心秉承"引育并举、开放包容"的人才理念，为每一位成员提供国际化的学术平台和广阔的发展空间，着力打造具有全球影响力的高水平研究团队。
 
-# {% include icon.html icon="fa-regular fa-envelope" %}中心主任
+# {% include icon.html icon="fa-regular fa-user" %}中心主任
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
-# {% include icon.html icon="fa-regular fa-envelope" %}客座教授
+# {% include icon.html icon="fa-regular fa-user" %}客座教授
 
 {% include list.html data="members" component="portrait" filter="role == 'vp'" %}
 
-# {% include icon.html icon="fa-regular fa-envelope" %}博士后
+# {% include icon.html icon="fa-regular fa-user" %}博士后
 
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
-# {% include icon.html icon="fa-regular fa-envelope" %}博士生
+# {% include icon.html icon="fa-regular fa-user" %}博士生
 
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
-# {% include icon.html icon="fa-regular fa-envelope" %}硕士生
+# {% include icon.html icon="fa-regular fa-user" %}硕士生
 
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
-# {% include icon.html icon="fa-regular fa-envelope" %}本科生
+# {% include icon.html icon="fa-regular fa-user" %}本科生团队
 
 
 {% include section.html background="images/background.png" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# {% include icon.html icon="fa-solid fa-camera" %}团队风采
+
+中心团队不仅在学术研究方面展现出卓越的实力，更汇聚了一群充满激情与创造力的成员。我们注重团队协作与交流，定期组织学术研讨会、前沿讲座、学术沙龙以及丰富多彩的团队建设活动，促进成员间的思想碰撞与合作创新。开放包容的学术氛围让每一位成员都能充分发挥潜力，收获成长与友谊，共同推动中心不断迈向新的高峰。
 
 {% include section.html %}
 

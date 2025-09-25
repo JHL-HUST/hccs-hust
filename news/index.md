@@ -5,10 +5,9 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}中心动态
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+中心定期举办学术讲座、研讨会和各类学术交流活动，积极参与国内外学术合作与交流，推动学科交叉与创新发展。中心成员在科研、教学、社会服务等方面不断取得新进展，相关动态和成果将持续更新，欢迎关注我们的最新消息。
 
 {% include section.html %}
 

@@ -1,8 +1,8 @@
 ---
-title: 中心执行主任何琨教授获评“华中科技大学师德先进个人
+title: 中心执行主任何琨教授获评"华中科技大学师德先进个人"
 image: images/posts/2025-09-10-teacher-ethics-award/cover.png
-author: 李思哲
-tags: award
+tags: 新闻
+last_modified_at: ""
 ---
 Outstanding Individual in 
 <!-- excerpt start -->

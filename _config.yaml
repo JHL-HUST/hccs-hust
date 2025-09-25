@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: 华中科技大学John Hopcroft计算中心
-subtitle: HCCS-HUST
-description: 华中科技大学John Hopcroft计算中心
+subtitle: Hopcroft Center on Computer Science, HUST
+description: 华中科技大学John Hopcroft计算中心官方网站
 header: images/background.png
 footer: images/background.png
 proofer: false
@@ -12,8 +12,8 @@ links:
   orcid: 0000-0001-7627-4604
   google-scholar: YTQnGJsAAAAJ
   github: JHL-HUST
-  twitter: JHL-HUST
-  youtube: JHL-HUST
+  # twitter: JHL-HUST
+  # youtube: JHL-HUST
 
 ### jekyll settings
 
