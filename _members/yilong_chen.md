@@ -1,7 +1,7 @@
 ---
 name: 陈奕龙
 image: 
-role: undergrad
+role: postgraduate
 description: NLP对抗
 affiliation: 华中科技大学
 aliases:

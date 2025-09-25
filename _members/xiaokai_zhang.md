@@ -1,7 +1,7 @@
 ---
 name: 张骁凯
 image: 
-role: undergrad
+role: postgraduate
 description: CV
 affiliation: 华中科技大学
 aliases:

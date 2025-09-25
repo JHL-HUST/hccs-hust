@@ -2,7 +2,7 @@
 title: 中心动态
 nav:
   order: 2
-  tooltip: Musings and miscellany
+  tooltip: News of the center
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}中心动态

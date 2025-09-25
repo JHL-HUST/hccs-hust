@@ -2,9 +2,11 @@
 title: 中心概况
 nav:
   order: 0
+  tooltip: Overview of the center
+
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}中心简介
+# {% include icon.html icon="fa-solid fa-building-columns" %}中心简介
 
 华中科技大学霍普克罗夫特计算科学研究中心（Hopcroft Center on Computing Science，HCCS）依托计算机科学与技术学院建设，旨在促进计算机科学理论与算法、智能科学与技术等领域的发展。
 
@@ -16,7 +18,7 @@ nav:
 
 中心主要研究领域包括可信人工智能、基于学习的组合优化、社交网络与图数据挖掘、深度学习。在NeurIPS、ICLR、CVPR、ICCV、ECCV、AAAI、IJCAI、UAI、ACL、EMNLP、KDD、ICDM、WWW等多个人工智能与数据挖掘顶会和IEEE/ACM Trans等权威期刊发表论文140余篇。曾获得约束规划原理与实践国际会议(CP 2021)最佳论文奖；2022 SAT可满足性问题国际算法竞赛主赛道冠军；2020“安全AI挑战者计划”第2期ImageNet图像分类对抗攻击竞赛冠军；2022 MaxSAT最大可满足性问题国际算法竞赛四个赛道中三个亚军、一个季军；IJCAI 2019国际AI对抗攻防挑战赛防御赛道第3名；CVPR 2021安全AI挑战者计划第6期防御模型的白盒对抗攻击竞赛第4名等。
 
-# {% include icon.html icon="fa-regular fa-envelope" %}管委会
+# {% include icon.html icon="fa-solid fa-users-gear" %}管委会
 
 | 姓名   | 职务                         | 任职   |
 | ------ | ---------------------------- | ------ |

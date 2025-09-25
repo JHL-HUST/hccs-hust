@@ -9,17 +9,16 @@ nav:
 
 中心在计算科学理论与算法、智能科学与技术等领域取得了一系列重要成果，在国际顶级期刊和会议上发表高质量学术论文，承担国家重大科研项目，致力于推动计算科学理论与应用的创新发展。
 
+{% comment %}
 {% include section.html %}
-
 ## 亮点成果
-
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% endcomment %}
 
 {% include section.html %}
 
 ## 所有成果
+> 根据ORCID自动检索，个别会议论文未收录。
 
 {% include search-box.html %}
 

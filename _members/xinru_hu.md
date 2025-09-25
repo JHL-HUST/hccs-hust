@@ -1,7 +1,7 @@
 ---
 name: 胡心如
 image: 
-role: undergrad
+role: postgraduate
 description: 企业联培-电磁对抗
 affiliation: 华中科技大学
 aliases:

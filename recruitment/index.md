@@ -1,10 +1,10 @@
 ---
-title: 招生招聘
+title: 教职招聘
 nav:
   order: 5
-  tooltip: Recruitment and Enrollment
+  tooltip: Recruitment
 ---
-# 华中科技大学霍普克罗夫特计算科学研究中心教职招聘启事  
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %} 华中科技大学霍普克罗夫特计算科学研究中心教职招聘启事  
 
 ## 中心简介 | About Us  
 

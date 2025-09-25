@@ -1,7 +1,7 @@
 ---
 name: 陈子旸
 image: 
-role: undergrad
+role: postgraduate
 description: 对抗
 affiliation: 华中科技大学
 aliases:

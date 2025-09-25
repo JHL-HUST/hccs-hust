@@ -15,6 +15,10 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+# {% include icon.html icon="fa-regular fa-user" %}教学科研人员
+
+{% include list.html data="members" component="portrait" filter="role == 'researchers'" %}
+
 # {% include icon.html icon="fa-regular fa-user" %}客座教授
 
 {% include list.html data="members" component="portrait" filter="role == 'vp'" %}
@@ -29,9 +33,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-user" %}硕士生
 
-{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postgraduate'" %}
 
 # {% include icon.html icon="fa-regular fa-user" %}本科生团队
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 
 {% include section.html background="images/background.png" dark=true %}

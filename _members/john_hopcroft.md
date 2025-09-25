@@ -4,7 +4,10 @@ image: images/members/pi/john_hopcroft.png
 role: principal-investigator
 description: 中心主任
 affiliation: 康奈尔大学
-# links:
+links:
+  home-page: https://www.cs.cornell.edu/jeh/
+  email: jeh@cs.cornell.edu
+  google-scholar: 4Z6vo5QAAAAJ
 ---
 
 职位：中心主任，计算机科学家，中国科学院外籍院士，美国国家科学院院士，美国国家工程院院士，美国艺术与科学院院士，美国康奈尔大学教授

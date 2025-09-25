@@ -1,7 +1,7 @@
 ---
 name: 林子垚
 image: 
-role: undergrad
+role: postgraduate
 description: 图ML
 affiliation: 华中科技大学
 aliases:

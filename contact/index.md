@@ -1,15 +1,21 @@
 ---
 title: 联系我们
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}联系我们
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<div align="center">华中科技大学John Hopcroft计算科学研究中心诚挚欢迎社会各界与我们交流合作。</div>
+
+## 联系方式
+
+**地址：** 湖北省武汉市洪山区珞喻路1037号，华中科技大学东校区启明学院，邮编：430074
+
+**电话：** +86 (027) 8754-3885
+
+**邮箱：** brooklet60@hust.edu.cn
 
 {%
   include button.html
@@ -26,52 +32,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="华中科技大学启明学院位置"
+  link="https://www.google.com/maps/search/华中科技大学启明学院"
 %}
 
-{% include section.html %}
+## 交通指南
 
-{% capture col1 %}
+### 公共交通
+- **地铁：** 乘坐地铁2号线，在光谷广场站下车，转乘公交或步行至华中科技大学
+- **公交：** 乘坐25路、340路、513路、518路、702路、703路等公交车，在华中科技大学站下车
+- **出租车：** 从武汉站、汉口站、武昌站均可直接乘坐出租车到达
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+### 自驾路线
+- **从武汉站：** 沿三环线东段行驶，转入珞喻路，约30分钟车程
+- **从汉口站：** 沿二环线行驶，转入珞喻路，约45分钟车程
+- **从武昌站：** 沿中山路、珞喻路行驶，约25分钟车程

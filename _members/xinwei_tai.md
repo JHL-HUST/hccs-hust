@@ -1,7 +1,7 @@
 ---
 name: 台欣未
 image: 
-role: undergrad
+role: postgraduate
 description: 直博-GNN
 affiliation: 华中科技大学
 aliases:

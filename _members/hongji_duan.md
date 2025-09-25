@@ -1,7 +1,7 @@
 ---
 name: 段泓汲
 image: 
-role: undergrad
+role: postgraduate
 description: 
 affiliation: 华中科技大学
 aliases:

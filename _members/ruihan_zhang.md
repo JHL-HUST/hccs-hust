@@ -1,7 +1,7 @@
 ---
 name: 张睿涵
 image: 
-role: undergrad
+role: postgraduate
 description: 
 affiliation: 华中科技大学
 aliases:
